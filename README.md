@@ -6,15 +6,20 @@ This is our final group project for **CS177** at CCSF.
 
 #Time Waster
 ##CS177
-* Roman Borisov
-* Irina Bulygina
-* Sung Choi
+###Head Developers
 * Eric Chu
+* Eric Jo Zimmerman
+###Developers
 * Ana Maria Grande Escobedo
 * Largo Luong
+###Art
+* Roman Borisov
 * Sean Charles Kelley
+###QA
+* Irina Bulygina
 * Milana Swarowski
-* Eric Joseph Zimmerman
+###Presentation
+* Sung Choi
 
 ## Video Walkthrough
 
