@@ -9,16 +9,16 @@ This is our final group project for **CS177** at CCSF.
 ###Head Developers
 * Eric Chu
 * Eric Jo Zimmerman
-###Developers
+####Developers
 * Ana Maria Grande Escobedo
 * Largo Luong
-###Art
+#####Art
 * Roman Borisov
 * Sean Charles Kelley
-###QA
+#####QA
 * Irina Bulygina
 * Milana Swarowski
-###Presentation
+######Final Presentation
 * Sung Choi
 
 ## Video Walkthrough
